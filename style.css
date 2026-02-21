@@ -1,0 +1,55 @@
+.top-container{
+background-color:hsl(330, 100%, 98%) ;
+border-radius: 19px;
+
+}
+
+main{
+    padding: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: auto;
+    padding-right: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+h2{
+    font-family: Outfit,serif;
+    color:coral;
+}
+
+
+h3{
+    color: purple;
+}
+
+img{
+    width: 100%;
+    border-radius: 11px;
+    
+}
+
+body{
+  
+    background-color: hsl(30, 69%, 87%);
+    width: 90%;
+}
+
+
+.Everthing-container{
+
+    background-color:hsl(0, 0%, 100%) ;
+    border-radius: auto;
+    border-radius: 1%;
+}
+
+
+
+
