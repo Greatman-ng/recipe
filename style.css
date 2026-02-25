@@ -1,6 +1,9 @@
 .top-container{
 background-color:hsl(330, 100%, 98%) ;
-border-radius: 19px;
+border-radius: 20px;
+margin-left: 3%;
+margin-right: 3%;
+
 
 }
 
@@ -18,21 +21,34 @@ main{
 
 h1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    margin-left: 2%;
 }
 
 h2{
     font-family: Outfit,serif;
     color:coral;
+    margin-left: 3%;
+     font-size: 190%;
 }
 
 
 h3{
     color: purple;
+    margin-left: 3%;
+    font-size: 140%;
+
+}
+
+h4{
+    margin-left: 2%;
+    font-size: large;
 }
 
 img{
-    width: 100%;
+    width: 96%;
     border-radius: 11px;
+    margin-top: 3%;
+    margin-left: 2%;
     
 }
 
@@ -46,10 +62,20 @@ body{
 .Everthing-container{
 
     background-color:hsl(0, 0%, 100%) ;
-    border-radius: auto;
-    border-radius: 1%;
+    border-radius: 5px;
+}
+
+p{
+    margin-left: 2%;
 }
 
 
+.nutrition{
+    display: flex;
+}
 
+.nutrition p{
+    margin-left: 10%;
+    color: coral;
+}
 
