@@ -1,5 +1,5 @@
 .top-container{
-background-color:hsl(330, 100%, 98%) ;
+background-color:hsl(328, 66%, 94%) ;
 border-radius: 20px;
 margin-left: 3%;
 margin-right: 3%;
@@ -45,11 +45,16 @@ h4{
 }
 
 img{
-    width: 96%;
+    width: 95%;
     border-radius: 11px;
     margin-top: 3%;
     margin-left: 2%;
     
+}
+
+h5{
+    font-size: 100%;
+    margin-left: 3%;
 }
 
 body{
@@ -74,10 +79,8 @@ p{
     display: flex;
 }
 
-.one{
+
+.sepration{
+    margin-left: 50%;
     color: coral;
-    margin-bottom:1%;
-
-
 }
-
